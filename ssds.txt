@@ -1,0 +1,9 @@
+CLIENT - Fedora
+Server - Centos9/iso
+
+
+PAF lAB 02
+clone the repo to local space - git clone https://github.com/Hanse2408/paflab02.git
+
+git checkout - b feature/hanse/login
+
